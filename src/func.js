@@ -1,6 +1,6 @@
 const A = 1
 
-class util   {
+class util {
     
     /**
      * actions
